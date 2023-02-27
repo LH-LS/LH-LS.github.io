@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试页面</title>
+      <title>我的第一个文章</title>
       <link href="blog/done/"/>
       <url>blog/done/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>我已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>此网站分享文案，高清壁纸，pop音乐。</p><blockquote><p>分享的视频网站：</p></blockquote><a class="btn-beautify button--animated " href="https://cupfox.app/"   title="茶杯狐"><i class="fas fa-download"></i><span>茶杯狐</span></a><a class="btn-beautify button--animated " href="https://www.freeok.vip/"   title="freeOK"><i class="fas fa-download"></i><span>freeOK</span></a><hr><blockquote><p>优质学习网站：</p></blockquote><a class="btn-beautify button--animated " href="https://www.csdn.net/?spm=1000.2115.3001.4476"   title="CSDN"><i class="fas fa-download"></i><span>CSDN</span></a><a class="btn-beautify button--animated " href="https://icve-mooc.icve.com.cn/cms/index.htm"   title="MOOC"><i class="fas fa-download"></i><span>MOOC</span></a>]]></content>
       
       
       
